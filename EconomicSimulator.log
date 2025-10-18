@@ -1,0 +1,28 @@
+﻿  EconomicSimulator.cpp
+C:\vcpkg\installed\x64-windows\include\raygui.h(2654,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'EconomicSimulator.cpp')
+  
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(135,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(136,32): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(142,80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(142,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(142,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(142,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(151,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(153,67): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(153,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(153,45): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(153,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(161,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(164,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(166,51): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(166,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(166,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexg\source\repos\EconomicSimulator\EconomicSimulator\EconomicSimulator.cpp(166,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Economy.cpp
+  StatsTracker.cpp
+  UserAgent.cpp
+  Generating Code...
+  EconomicSimulator.vcxproj -> C:\Users\alexg\source\repos\EconomicSimulator\x64\Debug\EconomicSimulator.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
